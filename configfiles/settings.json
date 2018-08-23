@@ -1,0 +1,27 @@
+{
+  "standard.semistandard": true,
+  "editor.renderIndentGuides": false,
+  "window.zoomLevel": 1,
+   "[javascript]": {},
+  "standard.autoFixOnSave": true,
+  "auto-close-tag.fullMode": true,
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "editor.tabSize": 2,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+      {
+        "language": "vue",
+        "autoFix": true
+      },
+      {
+        "language": "html",
+        "autoFix": true
+      },
+      {
+        "language": "javascript",
+        "autoFix": true
+      }
+    ]
+}
